@@ -4,3 +4,7 @@ Read help of each file for more information.<BR>
 There's not all plugins I have written.<BR>
 To obtain all files, visit following site.<BR>
 https://moonwhistle.org/tkoolMZ/
+
+see also (Japanese):
+https://posfie.com/@ktakaki00/p/SoY6H8A
+You can see brief plugin history and usage.
