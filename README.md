@@ -5,6 +5,6 @@ There's not all plugins I have written.<BR>
 To obtain all files, visit following site.<BR>
 https://moonwhistle.org/tkoolMZ/
 
-see also (Japanese):
-https://posfie.com/@ktakaki00/p/SoY6H8A
+see also (Japanese):<BR>
+https://posfie.com/@ktakaki00/p/SoY6H8A<HR>
 You can see brief plugin history and usage.
