@@ -6,5 +6,5 @@ To obtain all files, visit following site.<BR>
 https://moonwhistle.org/tkoolMZ/
 
 see also (Japanese):<BR>
-https://posfie.com/@ktakaki00/p/SoY6H8A<HR>
+https://posfie.com/@ktakaki00/p/SoY6H8A<BR>
 You can see brief plugin history and usage.
